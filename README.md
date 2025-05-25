@@ -55,7 +55,7 @@ docker-n8n/
 
 ## 📜 Лицензия
 
-[EL](LICENSE)
+[The Emotional License (EL)](LICENSE)
 
 ---
 

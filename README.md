@@ -6,6 +6,8 @@
 
 **Репозиторий для быстрого развёртывания [n8n](https://n8n.io) в Docker с поддержкой Windows/Linux**
 
+[Doker (n8n) - Secure Workflow Automation for Technical Teams](https://hub.docker.com/r/n8nio/n8n)
+
 ## 📦 Быстрый старт
 
 ### 🔍 Для Windows

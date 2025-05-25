@@ -1,0 +1,43 @@
+### Docker ###
+# Игнорируем локальные данные Docker
+**/docker-data/
+**/data/
+**/volumes/
+
+# Игнорируем лог-файлы Docker
+*.log
+logs/
+
+### n8n ###
+# Конфиги с чувствительными данными
+.env
+.env.*
+config/credentials.json
+config/secrets/
+
+### Системные файлы ###
+# Файлы IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Временные файлы
+*.tmp
+*.temp
+*~
+
+# ОС
+.DS_Store
+Thumbs.db
+
+### Node.js (если есть кастомные ноды) ###
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+### Бэкапы ###
+*.bak
+*.backup
